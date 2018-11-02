@@ -1,0 +1,19 @@
+{
+  "name": "lynda_socket_io",
+  "version": "1.0.0",
+  "description": "pool app",
+  "main": "app-server.js",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Daniel Santos <daniel@brasileiro.ca>",
+  "license": "ISC"
+}
